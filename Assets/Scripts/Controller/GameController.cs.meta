@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6e284d4f9a3e5a94e8239e1d6cdb9aa4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyCircle: {fileID: 5896994610758327688, guid: abfe4cfe2c84ffb41bececc10210fb9f,
+      type: 3}
+  - playerCircle: {fileID: 7889614953195140260, guid: 56804c0d6f420b64c90d2bf051caa7b0,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
